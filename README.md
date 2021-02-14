@@ -1,2 +1,1 @@
-# Projects
-Student projects
+Data Warehouse Project
