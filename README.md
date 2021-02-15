@@ -1,10 +1,10 @@
 This folder contains Student projects: 
 
-1.Data Warehouse Project
+1.Web - referat
 
-2.Web - referat
+2.Object-Oriented Programming Project
 
-3.Object-Oriented Programming Project
+3.Data Warehouse Project
 
 4.System Programming Project
 
