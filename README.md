@@ -6,6 +6,7 @@ This folder contains Student projects:
 
 3.Data Warehouse Project
 
-4.System Programming Project
+4.Statistics, R Project
 
-5.Statistics, R Project
+5.System Programming Project
+
