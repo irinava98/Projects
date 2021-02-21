@@ -2,11 +2,13 @@ This folder contains Student projects:
 
 1.Web - referat
 
-2.Object-Oriented Programming Project
+2.Part of Web Student Project.
 
-3.Data Warehouse Project
+3.Object-Oriented Programming Project
 
-4.Statistics, R Project
+4.Data Warehouse Project
 
-5.System Programming Project
+5.Statistics, R Project
+
+6.System Programming Project
 
